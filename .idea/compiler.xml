@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commerce-bean" />
+        <module name="commerce-common-util" />
+        <module name="commerce-interface" />
+        <module name="commerce-manage-web" />
+        <module name="commerce-order-web" />
+        <module name="commerce-service-util" />
+        <module name="commerce-user-manage" />
+        <module name="commerce-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commerce-bean" target="1.8" />
+      <module name="commerce-common-util" target="1.8" />
+      <module name="commerce-interface" target="1.8" />
+      <module name="commerce-manage-web" target="1.8" />
+      <module name="commerce-order-web" target="1.8" />
+      <module name="commerce-parent" target="1.8" />
+      <module name="commerce-service-util" target="1.8" />
+      <module name="commerce-user-manage" target="1.8" />
+      <module name="commerce-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

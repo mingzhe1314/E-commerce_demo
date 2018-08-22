@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/E-commerce_demo.iml" filepath="$PROJECT_DIR$/.idea/E-commerce_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-bean/commerce-bean.iml" filepath="$PROJECT_DIR$/commerce-bean/commerce-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-common-util/commerce-common-util.iml" filepath="$PROJECT_DIR$/commerce-common-util/commerce-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-interface/commerce-interface.iml" filepath="$PROJECT_DIR$/commerce-interface/commerce-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-manage-web/commerce-manage-web.iml" filepath="$PROJECT_DIR$/commerce-manage-web/commerce-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-order-web/commerce-order-web.iml" filepath="$PROJECT_DIR$/commerce-order-web/commerce-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-parent/commerce-parent.iml" filepath="$PROJECT_DIR$/commerce-parent/commerce-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-service-util/commerce-service-util.iml" filepath="$PROJECT_DIR$/commerce-service-util/commerce-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-user-manage/commerce-user-manage.iml" filepath="$PROJECT_DIR$/commerce-user-manage/commerce-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-web-util/commerce-web-util.iml" filepath="$PROJECT_DIR$/commerce-web-util/commerce-web-util.iml" />
+    </modules>
+  </component>
+</project>
